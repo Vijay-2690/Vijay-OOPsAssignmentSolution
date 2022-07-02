@@ -25,7 +25,7 @@ public class Driver{
 		System.out.println(hr.getTodaysWork());
 		System.out.println(hr.getWorkDeadline());
 		System.out.println(hr.doActivity());
-		System.out.println(admin.isTodayAHoliday());
+		System.out.println(hr.isTodayAHoliday());
 		System.out.println();
 
 		//Calling methods of Tech Department and printing on console
